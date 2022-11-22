@@ -6,7 +6,7 @@
 <https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86>
 <https://overapi.com/javascript>
 
-## Useful tools
+### Useful tools
 
 <https://sdras.github.io/array-explorer>
 <https://objectexplorer.netlify.app>
@@ -19,6 +19,6 @@
 
 <http://cheatsheets.shecodes.io/bootstrap>
 
-# CSS
+## CSS
 
 <http://cheatsheets.shecodes.io/css>
