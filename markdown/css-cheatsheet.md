@@ -1,7 +1,5 @@
 # CSS Selectors Cheatsheet
 
-Hi! If you see an error or something is missing (like `:focus-within` for few years :P) please let me know :heart:
-
 ## Element selectors
 
 **Element** -- selects all `h2` elements on the page
